@@ -1,5 +1,5 @@
 # FloydWarshall
- Implementation of Floyd Warshall's algorithm 
+ Implementation of Floyd Warshall's algorithm.
  This program uses Java and Swing to create a gui which reads in a text file.
  The text file should be properly formatted(see exampleTest.txt) with community names
  and the known distances between them.  The user is then able to save a text file 
